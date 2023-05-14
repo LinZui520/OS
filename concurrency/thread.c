@@ -1,9 +1,12 @@
 #include <threads.h>
 #include <stdio.h>
 
+//线程函数 arg为线程函数参数
 int thread_func(void* arg){
+    //获取线程函数参数
     int* id = (int*) arg;
     printf("正在执行线程%d\n", *id);
+    //线程退出 返回0
     thrd_exit(0);
 }
 
