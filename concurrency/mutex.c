@@ -9,7 +9,7 @@ mtx_t mutex;
 
 int thread_func(void* arg){
     int id = *(int*) arg;
-    for(int i=1;i<=10000;i++){
+    for(int i=1;i<=100000;i++){
         //加锁
         mtx_lock(&mutex);
         sum ++;
