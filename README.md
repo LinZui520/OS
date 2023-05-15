@@ -1,1 +1,1 @@
-<h1 align="center"> life is a fuck movies 人生如戏 </h1>
+<h1 align="center"> life is a fuck movie 人生如戏 </h1>
