@@ -1,1 +1,2 @@
-<h1 align="center"> 学这该死的操作系统 </h1>
+<h1 align="center"> life is a fuck movies </h1>
+<h1 align="center"> 人生如戏 </h1>
